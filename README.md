@@ -13,6 +13,8 @@ WP Raven Widgets is a collection of very useful and powerful widgets for Wordpre
 
 Install the plugin and goto Widgets and start using them. All widgets are translation ready.
 
+The Google Analytics Popular Posts widget uses Wordpress Transient API to store results from Google Analytics. WP Transient caches work optimally with xCache, Memcache or Redis. This way it can save bandwidth and limit your API usage. 
+
 ## Installation
 
 Download and install this plugin from [WP Raven Widgets](https://github.com/anithegregorian/wp-raven-widgets) in your `wp-plugins` directory and activate it.
